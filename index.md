@@ -34,17 +34,13 @@ WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 
 ![antigen-nanobody.jpg](/assets/antigen-nanobody.jpg)
 
-## 3. We share the nanobody sequence (& send the purified nanobody if you want)
+## 3. We share the generated sequence immediately & send purified nanobody in 2 weeks
 
 ### $500/sequence
-delivered immediately
 
-### $300/mg of purified nanobody
-delivered in 2 weeks
+### $300/mg of purified nanobody with an optional free tag (GFP, His, MBP, etc)
 
-Free tag of your choice (GFP, RFP, YPF, His, MBP, etc)
-
-If the nanobody does not work for you, you get your money back
+### 100% money back if nanobody does not perform
 
 # Join the waitlist:
 <form action="https://formspree.io/nanobodies@protonmail.com" method="POST">
