@@ -1,6 +1,6 @@
 ---
 layout: default
-image: Nanobodies on demand
+title: Nanobodies on demand
 description: Get a custom nanobody in 2 weeks
 ---
 # Need a binder for protein assays, ELISA, IHC or flow cytometry?
