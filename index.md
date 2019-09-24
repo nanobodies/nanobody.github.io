@@ -36,8 +36,6 @@ WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 
 ## 3. We share the nanobody sequence (& send the purified nanobody if you want)
 
-# Pricing
-
 ### $500/sequence
 delivered immediately
 
