@@ -1,123 +1,58 @@
 ---
 layout: default
+title: Nanobodies on demand
+description: Get a custom nanobody binder against your antigen in 2 weeks
 ---
+# Need a binder for protein assays, ELISA, IHC or flow cytometry?
+## Anti-protein camelid nanobodies have many advantages:
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* Single chain & small (~15kDa) 
+* Stable (70℃ Tm)
+* High-affinity (<10 nM)
+* Easily tagged & expressed in E. Coli
 
-[Link to another page](./another-page.html).
+1. Bruce, V. J. (2017). [Evaluation of nanobody conjugates and protein fusions as bioanalytical reagents.](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.7b00470) Analytical chemistry, 89(7), 3819-3823.
+2. Yamagata, M. (2018). [Reporter–nanobody fusions (RANbodies) as versatile, small, sensitive immunohistochemical reagents.](https://www.ncbi.nlm.nih.gov/pubmed/29440485) PNAS, 115(9), 2126-2131.
+3. Böldicke, T. (2017). [Single domain antibodies for the knockdown of cytosolic and nuclear proteins.](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3154) Protein science, 26(5), 925-945.
 
-There should be whitespace between paragraphs.
+## We developed a pipeline to generate custom high-quality nanobodies _in silico_ (no alpacas needed 💉🚫🦙)!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# How we work
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## 1. You give us amino acid sequence of the antigen
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+>sp|P28907|CD38_HUMAN
+MANCEFSPVSGDKPCCRLSRRAQLCLGVSILVLILVVVLAVVVPRWRQQWSGPGTTKRFP
+ETVLARCVKYTEIHPEMRHVDCQSVWDAFKGAFISKHPCNITEEDYQPLMKLGTQTVPCN
+KILLWSRIKDLAHQFTQVQRDMFTLEDTLLGYLADDLTWCGEFNTSKINYQSCPDWRKDC
+SNNPVSVFWKTVSRRFAEAACDVVHVMLNGSRSKIFDKNSTFGSVEVHNLQPEKVQTLEA
+WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 ```
 
-```
-The final element.
-```
+## 2. We come up with a high-affinity specific nanobody _in silico_
+
+![antigen-nanobody.jpg](/assets/5f1k_screenshot.jpg)
+
+## 3. We share the nanobody sequence (& send the purified nanobody if you want)
+
+# Pricing
+
+### $500/sequence
+delivered immediately
+
+### $300/mg
+of purified nanobody (delivered in 2 weeks)
+
+Free tag of your choice (GFP, RFP, YPF, His, MBP, etc)
+
+If the nanobody does not work for you, you get your money back
+
+# Join the waitlist:
+<form action="https://formspree.io/nanobodies@protonmail.com" method="POST">
+
+  <p> Name <input type="text" name="name"> </p>
+  <p> Email <input type="email" name="email"> </p>
+  <p> Affiliation <input type="text" name="affiliation"> </p>
+  <input type="submit" value="Submit">
+</form>
