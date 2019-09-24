@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nanobodies on demand
-description: Get a custom nanobody binder against your antigen in 2 weeks
+image: Nanobodies on demand
+description: Get a custom nanobody in 2 weeks
 ---
 # Need a binder for protein assays, ELISA, IHC or flow cytometry?
 ## Anti-protein camelid nanobodies have many advantages:
