@@ -32,7 +32,7 @@ WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 
 ## 2. We come up with a high-affinity specific nanobody _in silico_
 
-![antigen-nanobody.jpg](/assets/5f1k_screenshot.jpg)
+![antigen-nanobody.jpg](/assets/antigen-nanobody.jpg)
 
 ## 3. We share the nanobody sequence (& send the purified nanobody if you want)
 
