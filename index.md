@@ -4,7 +4,8 @@ title: Antibody-like binders for research on demand
 description: Get a custom nanobody in 2 weeks
 ---
 # Need a binder for protein assays, ELISA, IHC or flow cytometry?
-## Anti-protein camelid nanobodies have many advantages:
+
+Anti-protein camelid nanobodies have many advantages:
 
 * Single chain & small (~15kDa) 
 * Stable (70℃ Tm)
@@ -15,11 +16,11 @@ description: Get a custom nanobody in 2 weeks
 2. Yamagata, M. (2018). [Reporter–nanobody fusions (RANbodies) as versatile, small, sensitive immunohistochemical reagents.](https://www.ncbi.nlm.nih.gov/pubmed/29440485) PNAS, 115(9), 2126-2131.
 3. Böldicke, T. (2017). [Single domain antibodies for the knockdown of cytosolic and nuclear proteins.](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3154) Protein science, 26(5), 925-945.
 
-## We developed a pipeline to generate custom high-quality nanobodies _in silico_ (no alpacas needed 💉🚫🦙)!
+## We developed a pipeline to generate custom high-quality nanobody binders _in silico_ (no alpacas needed 💉🚫🦙)!
 
 # How we work
 
-## 1. You give us amino acid sequence of the antigen
+## 1. You share antigen amino acid sequence
 
 ```
 >sp|P28907|CD38_HUMAN
@@ -30,17 +31,20 @@ SNNPVSVFWKTVSRRFAEAACDVVHVMLNGSRSKIFDKNSTFGSVEVHNLQPEKVQTLEA
 WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 ```
 
-## 2. We come up with a high-affinity specific nanobody _in silico_
+## 2. We immediately generate and share a high-affinity nanobody sequence _in silico_
 
 ![antigen-nanobody.jpg](/assets/antigen-nanobody.jpg)
 
-## 3. We share the generated sequence immediately & send purified nanobody in 2 weeks
+## 3. You get the purified nanobody in 2 weeks
 
-### $500/sequence
+### $500
+/sequence
 
-### $300/mg of purified nanobody with an optional free tag (GFP, His, MBP, etc)
+### $300
+/mg of purified nanobody with an optional free tag (GFP, His, MBP, etc)
 
-### 100% money back if nanobody does not perform
+### 100% money back 
+if nanobody does not perform
 
 # Join the waitlist:
 <form action="https://formspree.io/nanobodies@protonmail.com" method="POST">
