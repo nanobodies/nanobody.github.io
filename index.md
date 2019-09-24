@@ -41,8 +41,8 @@ WVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI
 ### $500/sequence
 delivered immediately
 
-### $300/mg
-of purified nanobody (delivered in 2 weeks)
+### $300/mg of purified nanobody
+delivered in 2 weeks
 
 Free tag of your choice (GFP, RFP, YPF, His, MBP, etc)
 
