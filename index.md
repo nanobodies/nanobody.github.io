@@ -3,7 +3,7 @@ layout: default
 title: Antibody-like binders for research on demand
 description: Get a custom nanobody in 2 weeks
 ---
-# Need a binder for protein assays, ELISA, IHC or flow cytometry?
+# Need an antibody for protein assays, ELISA, IHC or flow cytometry?
 
 Anti-protein camelid nanobodies have many advantages:
 
